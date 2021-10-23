@@ -1,1 +1,1 @@
-![Vidoomy Banner](../images/banner_vidoomy.jpeg)
+![Vidoomy Banner](images/banner_vidoomy.jpeg)
