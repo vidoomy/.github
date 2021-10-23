@@ -1,1 +1,1 @@
-# Vidoomy Organization
+![Vidoomy Banner](../images/banner_vidoomy.jpeg)
